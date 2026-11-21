@@ -1,0 +1,5 @@
+metric,value,note
+sample_size,62,Sydney university students; July 2026
+most_used_app,Uber Eats 44%,DoorDash 28%; Menulog 18%
+top_choice_factor,delivery fee 38%,variety 27%; speed 22%; usability 13%
+pearson_r_fee_sensitivity_vs_ordering_frequency,-0.52,moderate negative association; association not causation
