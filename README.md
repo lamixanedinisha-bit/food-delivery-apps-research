@@ -2,6 +2,8 @@
 
 **My BUS227 research project — Dinisha Lamichhane, Bachelor of IT (Cyber Security), Sydney Metropolitan Institute of Technology. Team of 5.**
 
+My contribution: all stages — survey design, data collection, data cleaning in Excel, analysis, findings and presentation, as part of a team of 5. We worked collaboratively, sharing and reviewing each other's work and keeping the strongest version of each part.
+
 Portfolio version recreated from my university project work — original files are no longer accessible after my student email closed.
 
 ## Question
